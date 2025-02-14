@@ -109,7 +109,12 @@ Los resultados del entrenamiento incluyen:
 - **Gráficas de aprendizaje**: evolución de las métricas durante el entrenamiento.
 - **Modelo guardado**: el modelo entrenado se almacenará en la carpeta `models`.
 
-Puedes visualizar los resultados detallados en tu panel de Neptune.
+
+
+
+(graficos/training_train_epoch_accuracy.png)
+
+El modelo se evaluó utilizando métricas como precisión, recall y F1-score. Los resultados se pueden visualizar en el panel de Neptune, donde también se registran las curvas de aprendizaje y las gráficas de la señal EDA.
 
 ## Contribuciones
 
